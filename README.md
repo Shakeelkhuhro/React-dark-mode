@@ -1,4 +1,4 @@
-# React Dark Mode Toggle
+# React Dark Mode
 
 A simple React app that allows users to toggle between light mode and dark mode. The app uses local storage to persist the selected mode even after refreshing the page.
 
